@@ -1,0 +1,13 @@
+name: Project1
+title: Project1
+username:
+account: zsajit2
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1788464
+bundleId: 2789643
+url: https://zsajit2.shinyapps.io/Project1/
+when: 1581360167.09108
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|Untitled.ipynb|.ipynb_checkpoints/Untitled-checkpoint.ipynb
